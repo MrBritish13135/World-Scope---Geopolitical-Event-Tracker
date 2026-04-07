@@ -1,2 +1,0 @@
-[2026-02-21 21:45:51] USER: admin | ACTION: Database Backup Created: e:\Coding Projects\A2 Computer Science Unit 5 Project\protoype3\backups\worldscope_backup_20260221_214551.db
-[2026-02-21 21:47:48] USER: admin | ACTION: Database Backup Created: worldscope_backup_20260221_214748.db
